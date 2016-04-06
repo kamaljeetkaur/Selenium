@@ -14,6 +14,8 @@ public class WebDriverDemo {
       //Launch website
       driver.navigate().to("http://www.calculator.net/");
       
+      
+      
       //Maximize the browser
       driver.manage().window().maximize();
       
